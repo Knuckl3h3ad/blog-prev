@@ -1,4 +1,4 @@
-# Steph - FAQ accordion
+# JT - FAQ accordion
 
 This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). 
 
@@ -6,7 +6,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Screenshot
 
-![](./assets/design/desktop-preview.jpg)
+![](./design/desktop-design.jpg)
 
 ### Links
 
@@ -21,6 +21,3 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 - Google Fonts
 - Vanilla CSS
 - JavaScript
-
-![Design preview for the Blog preview card coding challenge](./preview.jpg)
-
